@@ -17,7 +17,7 @@ In this workshop, you will learn how to build a generative AI-powered chatbot by
    - Amazon Bedrock, Amazon Kendra and Amazon Cloud9
    - AWS Lambda and AWS Amplify
    - How the architecture work?
-2. Enviroment Setup
+2. Environment Setup
    - Set up CloudFormation template
    - Access Cloud9 and set up enviroment
    - Deploy Amazon Bedrock Serverless Application
@@ -26,7 +26,7 @@ In this workshop, you will learn how to build a generative AI-powered chatbot by
    - Enable Foundation Models in Amazon Bedrock
    - Simple Conversation with Chatbot UI
    - Prompt Engineering in Chatbot
-4. Summary and Cleanup
+4. Summary and Clean up
    - Summary
    - Clean up resources
 
